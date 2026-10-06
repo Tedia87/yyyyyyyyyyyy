@@ -1,0 +1,514 @@
+body{
+    background-color: rgba(128, 128, 128, 0.959);
+}
+.mj{
+    background-color: wheat;
+    box-sizing: border-box;
+    height: 600px;
+    width: 1300px;
+    position: absolute;
+    left: 30px;
+    top: 50px;
+    border-radius: 10px;
+}
+#ppl{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    position: absolute;
+    top: 410px;
+    left: 110px;
+}
+#llp{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    top: 450px;
+    left: 110px;
+}
+#pi{
+    width: 25px;
+    height: 15px;
+    position: absolute;
+    top: 429px;
+    padding-left: 8px;
+    left: 1160px;
+}
+#ht{
+     width: 25px;
+    height: 15px;
+    position: absolute;
+    top: 479px;
+    padding-left: 8px;
+    left: 1160px;
+}
+#ki{
+    text-decoration: none;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 130px;
+    padding-left: 42px;
+    padding-top: 6px;
+    position:absolute;
+    top: 420px;
+    border-radius: 25px;
+    left: 1160px;
+    height: 35px;
+    color: black;
+    background-color: wheat;
+}
+#yui{
+     text-decoration: none;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 130px;
+    padding-left: 42px;
+    padding-top: 6px;
+    position:absolute;
+    top: 470px;
+    border-radius: 25px;
+    left: 1160px;
+    height: 35px;
+    color: black;
+    background-color: wheat;
+}
+#ff{
+    color: black;
+    font-size: 650%;
+    position: absolute;
+    left: 190px;
+    top: 120px;
+    text-decoration: wavy;
+    font-style: normal;
+    letter-spacing: 1px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+em{
+    color: rgb(82, 3, 209);
+    font-size: 150%;
+    letter-spacing: 1px;
+}
+#ss{
+    position: absolute;
+    top: 30px;
+    left: 950px;
+    font-size: small;
+    color: black;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom: 2px solid  rgb(82, 3, 209);
+}
+#tt{
+     position: absolute;
+    top: 33px;
+    left: 1050px;
+    color: black;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+#jj{
+     position: absolute;
+    top: 33px;
+    left: 1150px;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-decoration: none;
+}
+#yy{
+    color: rgb(82, 3, 209);
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#oo{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: light;
+    font-style: normal;
+    font-size: xx-large;
+}
+#kk{
+    color: white;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-size: medium;
+}
+.ss{
+    position: absolute;
+    top: 100px;
+    left: 30px;
+}
+.hero-image{
+    position: relative;
+}
+.circle{
+    position: absolute;
+    border: 1px solid rgb(82, 3, 209);
+    border-radius: 50%;
+}
+.circle-1{
+    width: 100px;
+    height: 100px;
+    top: 100px;
+    right: 100px;
+}
+.circle-2{
+    width: 50px;
+    height: 50px;
+    top: 100px;
+    right: 20px;
+}
+.dot{
+    position: absolute;
+    width: 80px;
+    height: 800px;
+    border-radius: 50%;
+}
+.dot-1{
+    /* position: relative; */
+    top: 80px;
+    left: 10px;
+}
+.dot-2{
+    bottom: 70px;
+    right: 30px;
+}
+#ee{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    padding-top: 5px;
+    font-size: small;
+    /* box-sizing: border-box; */
+}
+.bb{
+     box-sizing: border-box;
+     position: absolute;
+     top: 540px;
+     left: 110px;
+     background-color:  black;
+     width: 180px;
+     height: 50px;
+     border-radius: 50px;
+     text-align: center;
+
+}
+#sd{
+    color: rgb(82, 3, 209);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+#jk{
+    background-color: white;
+}
+#od{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+}
+#mm{
+    width: 50px;
+    height: 30px;
+    position:absolute ;
+    left: 30px;
+}
+#bn{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: small;
+    position: absolute;
+    left: 85px;
+    top: 85px;
+}
+#yu{
+    position: absolute;
+    left: 85px;
+    top: 120px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    text-decoration: none;
+}
+#ol{
+     width: 50px;
+    height: 30px;
+    position:absolute ;
+    left: 30px;
+    top: 165px;
+}
+#vv{
+     position: absolute;
+    left: 85px;
+    top: 185px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    text-decoration: none;
+}
+#gf{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: small;
+    position: absolute;
+    left: 85px;
+    top: 150px;
+}
+#di{
+     width: 50px;
+    height: 30px;
+    position:absolute ;
+    left: 30px;
+    top: 220px;
+}
+#nn{
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: small;
+    position: absolute;
+    left: 85px;
+    top: 205px;
+}
+#kl{
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    position: absolute;
+    left: 85px;
+    top: 225px;
+}
+#op{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    position: absolute;
+    left: 700px;
+    height: 30px;
+    width: 260px;
+}
+#po{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    position: absolute;
+    left: 1000px;
+    height: 30px;
+    width: 230px;
+}
+#yo{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    position: absolute;
+    left: 700px;
+    height: 30px;
+    width: 530px;
+    top: 150px;
+}
+#oy{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    position: absolute;
+    left: 700px;
+    height: 270px;
+    width: 530px;
+    top: 200px;
+}
+#if{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    position: absolute;
+    left: 710px;
+    height: 230px;
+    width: 530px;
+    top: 200px;
+}
+#rtt{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    position: absolute;
+    background-color: rgb(82, 3, 209);;
+    left: 700px;
+    height: 40px;
+    width: 150px;
+    top: 500px;
+    border-radius: 15%;
+    border-color: rgb(82, 3, 209);
+    color: white;
+    pointer-events: all
+}
+#lkk{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    position: absolute;
+    top: 600px;
+    left: 30px;
+    text-decoration: none;
+}
+#lol{
+    border-radius: 50%;
+    position: absolute;
+    top: 150px;
+    left: 960px;
+    border-color:rgb(82, 3, 209);
+    height: 200px;
+    width: 200px;
+}
+#hy{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(82, 3, 209);
+    font-size:  medium;
+    position: absolute;
+    top: 50px;
+    left: 420px;
+}
+#yh{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    position: absolute;
+    top: 76px;
+    left: 420px;
+}
+#hyy{
+     color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    top: 125px;
+    left: 420px;
+}
+#klk{
+    background-color: wheat;
+}
+#fd{
+   height: 300px;
+   width: 350px;
+   position: absolute;
+   top: 20px;
+   left: 20px;
+}
+#as{
+    position: absolute;
+    left: 430px;
+    top: 260px;
+    /* border-width: 40px; */
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    border-color: black;
+    width: 80px;
+    height: 40px;
+    background-color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border: solid 1px;
+}
+#gr{
+     color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    top: 220px;
+    left: 420px;
+    font-size: medium;
+    font-weight: bold;
+}
+#jlo{
+    color: white;
+    background-color: orangered;
+    box-sizing: border-box;
+    height: 25px;
+    width: 15px;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+#li{
+     position: absolute;
+    left: 530px;
+    top: 260px;
+    /* border-width: 40px; */
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    border-color: black;
+    width: 80px;
+    height: 40px;
+    background-color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border: solid 1px;
+}
+#hp{
+    color: white;
+     background-color: paleturquoise;
+    box-sizing: border-box;
+    height: 25px;
+    width: 15px;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+#af{
+      position: absolute;
+    left: 620px;
+    top: 260px;
+    /* border-width: 40px; */
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    border-color: black;
+    width: 95px;
+    height: 40px;
+    background-color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 5px;
+    border-radius: 5px;
+    border: solid 1px;
+}
+#fa{
+      position: absolute;
+    left: 730px;
+    top: 260px;
+    /* border-width: 40px; */
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    border-color: black;
+    width: 90px;
+    height: 40px;
+    background-color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 5px;
+    border-radius: 5px;
+    border: solid 1px;
+}
+#voi{
+    height: 30px;
+    width: 35px;
+    position: absolute;
+    left: 50px;
+    top: 70px;
+    border-radius: 50%;
+}
+#ppp{
+    position: absolute;
+    left: 48px;
+    top: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: medium;
+    font-weight: bold;
+}
